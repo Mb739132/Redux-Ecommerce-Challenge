@@ -25,6 +25,8 @@ AS a senior engineer working on an e-commerce platform<br />
 I WANT my platform to use Redux to manage global state instead of the Context API<br />
 SO THAT my website's state management is taken out of the React ecosystem<br />
 
+## Acceptance Criteria 
+
 GIVEN an e-commerce platform that uses Redux to manage global state<br />
 WHEN I review the app’s store<br />
 THEN I find that the app uses a Redux store instead of the Context API<br />
