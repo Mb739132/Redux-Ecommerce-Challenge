@@ -1,4 +1,4 @@
-22. State Challenge: Redux Store
+tate Challenge: Redux Store
 
 ## Description
 
